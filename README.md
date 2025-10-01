@@ -28,4 +28,4 @@ Jupyter Notebook / Google Colab (interactive environment)
 
 ### How to Use
 Clone this repository "" OR ""
-Click on the Sales.ipynb file to see the code and result
+Click on the Sales.ipynb or Movie_rental.ipynb file in the left pane, to see the code and result
